@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "176725700955",
+    "project_id": "ghassal",
+    "storage_bucket": "ghassal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176725700955:android:1a5b0184aad34d3532ea7e",
+        "android_client_info": {
+          "package_name": "com.sahl.ghassal.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176725700955-smsqnl39ope2vua78vbg1ks2i6st5ive.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sahl.ghassal.driver",
+            "certificate_hash": "5f528f6eb5107b5008d62a0bd20f339b5d30a590"
+          }
+        },
+        {
+          "client_id": "176725700955-3m40gsh9qbt5vam1kq2cvl41r2khlaus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkuVL30a1fjP3lobzH6gZOXuMlEybzevs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176725700955-3m40gsh9qbt5vam1kq2cvl41r2khlaus.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176725700955-s113ipmpb1qsblgq8vf2e0e2qft6rdqc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sahl.ghassal.driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176725700955:android:c7661a861537afe032ea7e",
+        "android_client_info": {
+          "package_name": "com.sahl.ghassal_laundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176725700955-3m40gsh9qbt5vam1kq2cvl41r2khlaus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkuVL30a1fjP3lobzH6gZOXuMlEybzevs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176725700955-3m40gsh9qbt5vam1kq2cvl41r2khlaus.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176725700955-s113ipmpb1qsblgq8vf2e0e2qft6rdqc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sahl.ghassal.driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

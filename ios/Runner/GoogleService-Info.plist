@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>176725700955-9enlida7p24l1ncc3vv2uun6e3va92f9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.176725700955-9enlida7p24l1ncc3vv2uun6e3va92f9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>176725700955-smsqnl39ope2vua78vbg1ks2i6st5ive.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyACsdPjzt0zBTE_ObUL6DIMz4zHoRwBF8g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>176725700955</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sahl.ghassalLaundry</string>
+	<key>PROJECT_ID</key>
+	<string>ghassal</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ghassal.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:176725700955:ios:63ba3e9a487b763832ea7e</string>
+</dict>
+</plist>
